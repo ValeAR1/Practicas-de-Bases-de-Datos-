@@ -3,24 +3,23 @@ Repositorio para trabajar las practicas y proyectos de Bases de Datos
 # Practica 1 - Bases de Datos 
 ** Integrantes: 
     Altamirano Rodríguez Valeria 
-    Angy 
-    David 
+    Roldán Rumbo Angela Itzel
+    García Fernández David
 
 ** Grupo: 3CV2
+
 ** Carrera: Ingenieria en Sistemas Computacionales 
 
 Indice: 
 README.md
-.gitignore
 docs/
 investigacion-bases-de-datos.pdf
 estado-del-arte.pdf
 caso-de-estudio.pdf
 entorno/
+dockerfile
 compose.yaml
-modelo/
-diagrama-er.png
-evidencias/
-git/
-docker/
+practica1. evidencias del ejercicio 1 y 2
+
+
 
